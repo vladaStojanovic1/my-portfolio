@@ -1,0 +1,22 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladaStojanovic1/my-portfolio.git"
+  },
+  "author": "1vlada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladaStojanovic1/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/vladaStojanovic1/my-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
