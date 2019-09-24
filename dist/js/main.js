@@ -34,3 +34,5 @@ function toggleMenu() {
         showMenu = false;
     }
 }
+
+console.log();
